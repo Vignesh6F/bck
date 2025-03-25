@@ -33,3 +33,10 @@
     - name: Additional confirmation
       debug:
         msg: "Apache site enabled and service reloaded."
+
+
+ID: admin@maticz.com
+PW: Maticz#!123
+
+
+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
